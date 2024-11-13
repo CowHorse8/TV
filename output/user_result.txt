@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-11-13 18:11:33,url
+2024-11-14 06:13:30,url
 🎥咪咕直播,#genre#
 咪咕直播1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 咪咕直播2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
